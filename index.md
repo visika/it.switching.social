@@ -26,6 +26,8 @@ Scegli il sito o l'app che vorresti rimpiazzare:
 
 [Alternative a Google Calendar](google-calendar)
 
+[Alternative a Imgur e Photobucket](imgur)
+
 [Alternative a Medium](medium)
 
 [Alternative a Pocket](pocket)
