@@ -54,6 +54,8 @@ Scegli il sito o l'app che vorresti rimpiazzare:
 
 [Alternative a Google reCAPTCHA](recaptcha)
 
+[Alternative a Google Fonts](google-fonts)
+
 [Alternative a Google Forms](google-forms)
 
 [Alternative a Patreon](patreon)
