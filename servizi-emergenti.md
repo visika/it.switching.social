@@ -1,7 +1,23 @@
 # Servizi emergenti
 
-Questi non sono proprio pronti per essere messi nella lista principale, ma sono 
-attivamente sviluppati ed in dirittura d'arrivo. 
+Questi non sono proprio pronti per essere messi nella lista principale, ma sono attivamente sviluppati ed in dirittura d'arrivo.
+
+## Gancio
+
+Un progetto sviluppato all'interno dell'hacklab underscore di Torino.
+Gancio permette di raccogliere gli eventi locali della comunità e di trovare nuove cose da fare
+
+**SITO WEB** - [cisti.org](https://cisti.org/): [gancio](https://gancio.cisti.org/)
+
+## Mobilizon
+
+Mobilizon è un promettente servizio sviluppato dalla no-profit Framasoft, il cui obiettivo dichiarato è togliere gli eventi dalle grinfie di Facebook.
+Ha superato la fase di raccolta fondi ed attualmente è in beta testing, e si prevede il rilascio ufficiale verso la prima metà del 2020.
+Tra le funzioni più originali c'è la [federazione](siti-federati) delle istanze ed un sistema di gestione delle identità per garantire il massimo della privacy.
+
+**SITO WEB** - [Mobilizon](https://joinmobilizon.org/en/)
+
+**SITO DEMO** - [test.mobilizon.org](https://test.mobilizon.org/)
 
 ## Funkwhale
 
@@ -129,7 +145,7 @@ sfruttate per invadere la privacy delle persone.
 Il progetto Dat sta creando un nuovo insieme di standard tecnici chiamato "Dat", che 
 fornisce un'alternativa rispettosa della riservatezza all'HTTP. Dat sta venendo 
 sviluppato da un misto di ogranizzazioni no-profit, gruppi e volontari della comunità, 
-e mira a dare agli utenti più controllo su chi vede i propri dati. 
+e mira a dare agli utenti più controllo su chi vede i propri dati.
 
 **SITO WEB** - [DatProject.org](https://datproject.org/)
 
