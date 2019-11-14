@@ -1,13 +1,13 @@
-# Smartphone Fairtrade
+# Smartphone equosolidali
 
 La cosa non ha a che fare strettamente con la privacy, ma siccome questo sito riguarda 
 roba etica in relazione ad internet, pensavamo che ti avrebbe fatto piacere sapere anche 
-di telefoni fabbricati eticamente. 
+di telefoni fabbricati in maniera equosolidale. 
 
 ## Fairphone
 
 Fairphone prova ad ottenere il più possibile dei suoi materiali grezzi da fonti con 
-condizioni lavorative decenti e paghe oneste. L'ultimo modello, il Fairphone 2, usa anche 
+condizioni lavorative decenti e paghe oneste. L'ultimo modello, il Fairphone 3, usa anche 
 un sistema modulare cosicché se una componente si rompe puoi facilmente sostituirla da 
 solo senza dover comprare un nuovo telefono. 
 
