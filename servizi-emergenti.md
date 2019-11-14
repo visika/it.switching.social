@@ -5,7 +5,7 @@ Questi non sono proprio pronti per essere messi nella lista principale, ma sono 
 ## Gancio
 
 Un progetto sviluppato all'interno dell'hacklab underscore di Torino.
-Gancio permette di raccogliere gli eventi locali della comunità e di trovare nuove cose da fare
+Gancio permette di raccogliere gli eventi locali della comunità e di trovare nuove cose da fare.
 
 **SITO WEB** - [cisti.org](https://cisti.org/): [gancio](https://gancio.cisti.org/)
 
