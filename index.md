@@ -76,7 +76,7 @@ Scegli il sito o l'app che vorresti rimpiazzare:
 
 [Servizi emergenti](servizi-emergenti)
 
-[Smartphone Fairtrade](smartphone-etici)
+[Smartphone etici](smartphone-etici)
 
 [Domande frequenti](faq)
 
