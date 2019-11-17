@@ -4,7 +4,7 @@ title: Alternative etiche a siti ed app popolari
 
 # Alternative etiche, facili da usare e con un occhio per la privacy
 
-Scegli il sito o l'app che vorresti rimpiazzare: 
+Scegli il sito o l'app che vorresti rimpiazzare:
 
 [Alternative a Facebook e Twitter](facebook)
 
@@ -76,7 +76,7 @@ Scegli il sito o l'app che vorresti rimpiazzare:
 
 [Servizi emergenti](servizi-emergenti)
 
-[Smartphone Fairtrade](smartphone-fairtrade)
+[Smartphone Fairtrade](smartphone-etici)
 
 [Domande frequenti](faq)
 
